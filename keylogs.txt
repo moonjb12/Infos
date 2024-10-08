@@ -1,510 +1,78 @@
 
- 18788 Code.exe keylogger.py - Black_Hat_Python - Visual Studio Code
+ 19568 Code.exe keylogger.py - Black_Hat_Python - Visual Studio Code
  Lwin
 
- 12372 SearchHost.exe 검색
+ 13300 SearchHost.exe 검색
+discord
+Return
+
+ 23348 Discord.exe @도원 - Discord
+ Hangul
+ehdnjsdlek Space
+ehdnjsdl Lcontrol
+ Capital
+ Back
+ Lcontrol
+A
+ Back
+ Lmenu
+ Tab
+
+ 5656 Explorer.EXE 작업 전환
+ Tab
+
+ 18808 chrome.exe 새 탭 - Chrome
+GKS Back
+ Back
+ Back
+ Back
+ Back
+ Back
+ Back
+ Back
+ Capital
+ Hangul
+elalrh
+Return
+
+ 18808 chrome.exe 디미고 - Google 검색 - Chrome
+ Hangul
+dimigo
+Return
+
+ 5656 Explorer.EXE 
+ Lwin
+
+ 13300 SearchHost.exe 검색
 note
 Return
 
- 29032 Notepad.exe 메모장
- Hangul
-
- 29032 Notepad.exe 제목 없음 - 메모장
-d
- 29032 Notepad.exe *ㅇ - 메모장
-k
- 29032 Notepad.exe *아 - 메모장
-s
- 29032 Notepad.exe *안 - 메모장
-s
- 29032 Notepad.exe *안ㄴ - 메모장
-u
- 29032 Notepad.exe *안녀 - 메모장
-d
- 29032 Notepad.exe *안녕 - 메모장
-g
- 29032 Notepad.exe *안녕ㅎ - 메모장
-k
- 29032 Notepad.exe *안녕하 - 메모장
-t
- 29032 Notepad.exe *안녕핫 - 메모장
-p
- 29032 Notepad.exe *안녕하세 - 메모장
-d
- 29032 Notepad.exe *안녕하셍 - 메모장
-y
- 29032 Notepad.exe *안녕하세요 - 메모장
- Rshift
-!
- 29032 Notepad.exe *안녕하세요! - 메모장
-
-Return
-wjsmsSpace
-answjdqlsdlqslek Rshift
-! Back
- Lcontrol
-A
- Back
-
- 29032 Notepad.exe 제목 없음 - 메모장
-g
- 29032 Notepad.exe *ㅎ - 메모장
-h
- 29032 Notepad.exe *호 - 메모장
-r
- 29032 Notepad.exe *혹 - 메모장
-t'euc_kr' codec can't decode byte 0xc2 in position 1: illegal multibyte sequence: window name unknown
-
- 29032 Notepad.exe *혹 - 메모장
-l
- 29032 Notepad.exe *혹시 - 메모장
-Space
- Hangul
-d
- 29032 Notepad.exe *혹시 d - 메모장
-t
- 29032 Notepad.exe *혹시 dt - 메모장
-d
- 29032 Notepad.exe *혹시 dtd - 메모장
- Hangul
-r
- 29032 Notepad.exe *혹시 dtdㄱ - 메모장
-k
- 29032 Notepad.exe *혹시 dtd가 - 메모장
-Space
-s
- 29032 Notepad.exe *혹시 dtd가 ㄴ - 메모장
-n
- 29032 Notepad.exe *혹시 dtd가 누 - 메모장
-r
- 29032 Notepad.exe *혹시 dtd가 눅 - 메모장
-n
- 29032 Notepad.exe *혹시 dtd가 누구 - 메모장
-s
- 29032 Notepad.exe *혹시 dtd가 누군 - 메모장
-d
- 29032 Notepad.exe *혹시 dtd가 누군ㅇ - 메모장
- Back
-
- 29032 Notepad.exe *혹시 dtd가 누군 - 메모장
-w
- 29032 Notepad.exe *혹시 dtd가 누군ㅈ - 메모장
-l
- 29032 Notepad.exe *혹시 dtd가 누군지 - 메모장
-Space
-d
- 29032 Notepad.exe *혹시 dtd가 누군지 ㅇ - 메모장
-k
- 29032 Notepad.exe *혹시 dtd가 누군지 아 - 메모장
-t
- 29032 Notepad.exe *혹시 dtd가 누군지 앗 - 메모장
-l
- 29032 Notepad.exe *혹시 dtd가 누군지 아시 - 메모장
-s
- 29032 Notepad.exe *혹시 dtd가 누군지 아신 - 메모장
-k
- 29032 Notepad.exe *혹시 dtd가 누군지 아시나 - 메모장
-d
- 29032 Notepad.exe *혹시 dtd가 누군지 아시낭 - 메모장
-y
- 29032 Notepad.exe *혹시 dtd가 누군지 아시나요 - 메모장
+ 19420 Notepad.exe 제목 없음 - 메모장
  Lshift
-?>
+I
+ 19420 Notepad.exe *I - 메모장
+D
+ 19420 Notepad.exe *ID - 메모장
+:
 Return
+ Lshift
+PW; Lshift
+ Lshift
  Back
- Back
-
-Return
- Lmenu
- Tab
-
- 18788 Code.exe keylogger.py - Black_Hat_Python - Visual Studio Code
- Lmenu
- Tab
-
- 29032 Notepad.exe *혹시 dtd가 누군지 아시나요 - 메모장
-ahfmtlausSpace
-tkdrhksSpace
-djqtrhdy... Lcontrol
-A
- Back
-
- 29032 Notepad.exe 제목 없음 - 메모장
-r
- 29032 Notepad.exe *ㄱ - 메모장
-m
- 29032 Notepad.exe *그 - 메모장
-f
- 29032 Notepad.exe *글 - 메모장
-j
- 29032 Notepad.exe *그러 - 메모장
-a
- 29032 Notepad.exe *그럼 - 메모장
-Space
+ Lshift
+: Space
+Up
+ Space
+ Lshift
+I
+ 19420 Notepad.exe *ID I - 메모장
+n
+ 19420 Notepad.exe *ID In - 메모장
 g
- 29032 Notepad.exe *그럼 ㅎ - 메모장
-h
- 29032 Notepad.exe *그럼 호 - 메모장
-r
- 29032 Notepad.exe *그럼 혹 - 메모장
-t'euc_kr' codec can't decode byte 0xc2 in position 6: illegal multibyte sequence: window name unknown
-
- 29032 Notepad.exe *그럼 혹 - 메모장
-l
- 29032 Notepad.exe *그럼 혹시 - 메모장
-Space
- Hangul
-c
- 29032 Notepad.exe *그럼 혹시 c - 메모장
-h
- 29032 Notepad.exe *그럼 혹시 ch - 메모장
+ 19420 Notepad.exe *ID Ing - 메모장
 a
- 29032 Notepad.exe *그럼 혹시 cha - 메모장
-d
- 29032 Notepad.exe *그럼 혹시 chad - 메모장
-Space
- Back
-9
- 29032 Notepad.exe *그럼 혹시 chad9 - 메모장
-9
- 29032 Notepad.exe *그럼 혹시 chad99 - 메모장
-Space
- Hangul
-r
- 29032 Notepad.exe *그럼 혹시 chad99 ㄱ - 메모장
-k
- 29032 Notepad.exe *그럼 혹시 chad99 가 - 메모장
-Space
-s
- 29032 Notepad.exe *그럼 혹시 chad99 가 ㄴ - 메모장
+ 19420 Notepad.exe *ID Inga - 메모장
 n
- 29032 Notepad.exe *그럼 혹시 chad99 가 누 - 메모장
-r
- 29032 Notepad.exe *그럼 혹시 chad99 가 눅 - 메모장
-n
- 29032 Notepad.exe *그럼 혹시 chad99 가 누구 - 메모장
-s
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군 - 메모장
-w'euc_kr' codec can't decode byte 0x82 in position 23: illegal multibyte sequence: window name unknown
-
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군 - 메모장
-l
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 - 메모장
-Space
-d
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 ㅇ - 메모장
-k
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아 - 메모장
-s
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 안 - 메모장
- Back
-
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아 - 메모장
-t
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 앗 - 메모장
-l
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아시 - 메모장
-s
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아신 - 메모장
-dk
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아신아 - 메모장
-y
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아신아ㅛ - 메모장
- Back
-
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아신아 - 메모장
- Back
-
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아신 - 메모장
- Back
-
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아 - 메모장
-t
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아ㅅ - 메모장
-l
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아시 - 메모장
-s
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아신 - 메모장
-k
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아시나 - 메모장
-d
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아시낭 - 메모장
-y
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아시나요 - 메모장
- Lshift
-?
-Return
- Lmenu
- Tab
-
- 18788 Code.exe keylogger.py - Black_Hat_Python - Visual Studio Code
- Lmenu
- Tab
-
- 29032 Notepad.exe *그럼 혹시 chad99 가 누군지 아시나요 - 메모장
- Lcontrol
-A
-A
- Back
-
- 29032 Notepad.exe 제목 없음 - 메모장
-a
- 29032 Notepad.exe *ㅁ - 메모장
-h
- 29032 Notepad.exe *모 - 메모장
-f
- 29032 Notepad.exe *몰 - 메모장
-m
- 29032 Notepad.exe *모르 - 메모장
-a
- 29032 Notepad.exe *모름 - 메모장
-u
- 29032 Notepad.exe *모르며 - 메모장
-s
- 29032 Notepad.exe *모르면 - 메모장
-Space
-d
- 29032 Notepad.exe *모르면 ㅇ - 메모장
-j
- 29032 Notepad.exe *모르면 어 - 메모장
- Rshift
-W
- 29032 Notepad.exe *모르면 어ㅉ - 메모장
-f
- 29032 Notepad.exe *모르면 어ㅉㄹ - 메모장
- Back
-
- 29032 Notepad.exe *모르면 어ㅉ - 메모장
- Back
-
- 29032 Notepad.exe *모르면 어 - 메모장
- Rshift
-W
- 29032 Notepad.exe *모르면 어ㅉ - 메모장
-j
- 29032 Notepad.exe *모르면 어쩌 - 메모장
-f
- 29032 Notepad.exe *모르면 어쩔 - 메모장
-t'euc_kr' codec can't decode byte 0xa5 in position 10: illegal multibyte sequence: window name unknown
-
- 29032 Notepad.exe *모르면 어쩔 - 메모장
-n
- 29032 Notepad.exe *모르면 어쩔수 - 메모장
-Space
-d
- 29032 Notepad.exe *모르면 어쩔수 ㅇ - 메모장
-j
- 29032 Notepad.exe *모르면 어쩔수 어 - 메모장
-q
- 29032 Notepad.exe *모르면 어쩔수 업 - 메모장
-t
- 29032 Notepad.exe *모르면 어쩔수 없 - 메모장
-r
- 29032 Notepad.exe *모르면 어쩔수 없ㄱ - 메모장
-h
- 29032 Notepad.exe *모르면 어쩔수 없고 - 메모장
-d
- 29032 Notepad.exe *모르면 어쩔수 없공 - 메모장
-y
- 29032 Notepad.exe *모르면 어쩔수 없고요 - 메모장
- Lcontrol
-A
- Back
-
- 29032 Notepad.exe 제목 없음 - 메모장
- Lmenu
- Tab
-
- 18788 Code.exe keylogger.py - Black_Hat_Python - Visual Studio Code
- Lmenu
- Tab
-
- 29032 Notepad.exe 제목 없음 - 메모장
-d
- 29032 Notepad.exe *ㅇ - 메모장
-k
- 29032 Notepad.exe *아 - 메모장
-s
- 29032 Notepad.exe *안 - 메모장
-l
- 29032 Notepad.exe *아니 - 메모장
-a
- 29032 Notepad.exe *아님 - 메모장
-u
- 29032 Notepad.exe *아니며 - 메모장
-s
- 29032 Notepad.exe *아니면 - 메모장
-Space
-'
- 29032 Notepad.exe *아니면 ' - 메모장
-e
- 29032 Notepad.exe *아니면 'ㄷ - 메모장
-l
- 29032 Notepad.exe *아니면 '디 - 메모장
-d
- 29032 Notepad.exe *아니면 '딩 - 메모장
-r
- 29032 Notepad.exe *아니면 '딩ㄱ - 메모장
-j
- 29032 Notepad.exe *아니면 '딩거 - 메모장
-s
- 29032 Notepad.exe *아니면 '딩건 - 메모장
-m
- 29032 Notepad.exe *아니면 '딩거느 - 메모장
-s
- 29032 Notepad.exe *아니면 '딩거는 - 메모장
-Space
- Back
-r
- 29032 Notepad.exe *아니면 '딩거는ㄱ - 메모장
-n
- 29032 Notepad.exe *아니면 '딩거는구 - 메모장
-l
- 29032 Notepad.exe *아니면 '딩거는귀 - 메모장
-d'euc_kr' codec can't decode byte 0x82 in position 15: illegal multibyte sequence: window name unknown
-
- 29032 Notepad.exe *아니면 '딩거는귀 - 메모장
-u
- 29032 Notepad.exe *아니면 '딩거는귀여 - 메모장
-d
- 29032 Notepad.exe *아니면 '딩거는귀영 - 메모장
-n
- 29032 Notepad.exe *아니면 '딩거는귀여우 - 메모장
-j
- 29032 Notepad.exe *아니면 '딩거는귀여워 - 메모장
-'
- 29032 Notepad.exe *아니면 '딩거는귀여워' - 메모장
-s
- 29032 Notepad.exe *아니면 '딩거는귀여워'ㄴ - 메모장
-m
- 29032 Notepad.exe *아니면 '딩거는귀여워'느 - 메모장
-s
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 - 메모장
-Space
-s
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 ㄴ - 메모장
-nr
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 눅 - 메모장
-sn
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 눅누 - 메모장
-w'euc_kr' codec can't decode byte 0x87 in position 27: illegal multibyte sequence: window name unknown
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 눅누 - 메모장
- Back
- Back
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 눅ㄴ - 메모장
- Back
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 눅 - 메모장
- Back
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 - 메모장
-s
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 ㄴ - 메모장
-n
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누 - 메모장
-r
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 눅 - 메모장
-n
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누구 - 메모장
-s
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군 - 메모장
-w'euc_kr' codec can't decode byte 0x82 in position 27: illegal multibyte sequence: window name unknown
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군 - 메모장
-l
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 - 메모장
-Space
-d
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 ㅇ - 메모장
-k
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아 - 메모장
-t
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 앗 - 메모장
-l
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시 - 메모장
-a
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아심 - 메모장
-k
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시마 - 메모장
- Back
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시ㅁ - 메모장
- Back
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시 - 메모장
-s
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시ㄴ - 메모장
-k
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시나 - 메모장
-d
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시낭 - 메모장
-y
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시나요 - 메모장
- Lcontrol
- Lcontrol
- Lshift
-?
-Return
-dkslausSpace
-' Hangul
-cuf Back
-t Back
-e Back
-tedingerSpace
- Back
-'Space
- Hangul
-fkehdy... Lcontrol
-A
- Back
- Lmenu
- Tab
-
- 18788 Code.exe keylogger.py - Black_Hat_Python - Visual Studio Code
- Lmenu
- Tab
-
- 29032 Notepad.exe *아니면 '딩거는귀여워'는 누군지 아시나요 - 메모장
- Back
-
- 29032 Notepad.exe 제목 없음 - 메모장
-a
- 29032 Notepad.exe *ㅁ - 메모장
-h
- 29032 Notepad.exe *모 - 메모장
-f
- 29032 Notepad.exe *몰 - 메모장
-m
- 29032 Notepad.exe *모르 - 메모장
-r
- 29032 Notepad.exe *모륵 - 메모장
-l
- 29032 Notepad.exe *모르기 - 메모장
- Back
-
- 29032 Notepad.exe *모르ㄱ - 메모장
- Back
-
- 29032 Notepad.exe *모르 - 메모장
-t
- 29032 Notepad.exe *모르ㅅ - 메모장
-l
- 29032 Notepad.exe *모르시 - 메모장
-r
- 29032 Notepad.exe *모르식 - 메모장
-p
- 29032 Notepad.exe *모르시게 - 메모장
- Rshift
-T
- 29032 Notepad.exe *모르시겠 - 메모장
-e
- 29032 Notepad.exe *모르시겠ㄷ - 메모장
-k
- 29032 Notepad.exe *모르시겠다 - 메모장
-r
- 29032 Notepad.exe *모르시겠닥 - 메모장
-n
- 29032 Notepad.exe *모르시겠다구 - 메모장
-d
+ 19420 Notepad.exe *ID Ingan - 메모장
+Down
+secret
